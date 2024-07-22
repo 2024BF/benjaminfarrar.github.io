@@ -1,20 +1,23 @@
 # Data Scientist
 
 ### Education
+King Edwards VI college Stourbridge
 * Physics - Alevel - Grade C
 * Chemistry - Alevel - Grade C
 * Business - Alevel - Grade C
 * Core Maths - ASlevel - Grade B
 
-Working towards - BSc (Hons) Data Science (Sept 2023 - Sept 2026)
+BPP University
+* BSc (Hons) Data Science (Sept 2023 - Sept 2026)
 
 ### Work Experience
-Data Scienist L6 Finance Apprentice @ Schneider Electric (Sept 2023 - Present)
+Three Horse Shoes Alveley - Bar Staff (May 2021 - July 2023)
+Schneider Electric - Data Science Finance L6 Apprentice (Sept 2023 - Present)
 
 ### Projects
 * Profit and Cost centre restructure across UK&I zone
 * Automated rebate solution across UK&I zone
-* Improving and maintaining KPI for Direct CCO material data quality across UK&I zone
+* Improving & maintaining KPI for material data quality across UK&I zone
 
 
 
