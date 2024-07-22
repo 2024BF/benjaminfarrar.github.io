@@ -9,7 +9,7 @@
 Working towards - BSc (Hons) Data Science (Sept 2023 - Sept 2026)
 
 ### Work Experience
-Data Scienist L6 Finance apprentice @ Schneider Electric (Sept 2023 - Present)
+Data Scienist L6 Finance Apprentice @ Schneider Electric (Sept 2023 - Present)
 
 ### Projects
 * Profit and Cost centre restructure across UK&I zone
