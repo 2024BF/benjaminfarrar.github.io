@@ -15,9 +15,9 @@ BPP University
 * Schneider Electric - Data Science Finance L6 Apprentice (Sept 2023 - Present)
 
 ### Projects
-* Profit and Cost centre restructure across UK&I zone
-* Automated rebate solution across UK&I zone
-* Improving & maintaining KPI for material data quality across UK&I zone
+* Profit & Cost Centre Restructure Across UK&I Zone
+* Automated Rebate Solution Across UK&I Zone
+* Improving & maintaining KPI For Material Data Quality Across UK&I Zone
 
 ### Interest
 In my spare time I enjoy playing golf, attending the gym and catching up with my friends
