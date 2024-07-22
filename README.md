@@ -22,7 +22,7 @@ BPP University
 * Automated Rebate Solution Across UK&I Zone
 * Improving & Maintaining KPI For Material Data Quality Across UK&I Zone
 
-### Interest
+### Interests
 In my spare time I enjoy playing golf, attending the gym and catching up with my friends
 
 
