@@ -14,10 +14,13 @@ BPP University
 * Three Horse Shoes Alveley - Bar Staff (May 2021 - July 2023)
 * Schneider Electric - Data Science Finance L6 Apprentice (Sept 2023 - Present)
 
+### Business transformations
+* UNIFY - Merging All 54 Schneider Eletric EPRs Into 1
+
 ### Projects
-* Profit & Cost Centre Restructure Across UK&I Zone
+* Profit & Cost Centre Restructure Across UK&I Zone In Preparation For UNIFY 
 * Automated Rebate Solution Across UK&I Zone
-* Improving & maintaining KPI For Material Data Quality Across UK&I Zone
+* Improving & Maintaining KPI For Material Data Quality Across UK&I Zone
 
 ### Interest
 In my spare time I enjoy playing golf, attending the gym and catching up with my friends
