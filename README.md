@@ -11,8 +11,8 @@ BPP University
 * BSc (Hons) Data Science (Sept 2023 - Sept 2026)
 
 ### Work Experience
-Three Horse Shoes Alveley - Bar Staff (May 2021 - July 2023)
-Schneider Electric - Data Science Finance L6 Apprentice (Sept 2023 - Present)
+* Three Horse Shoes Alveley - Bar Staff (May 2021 - July 2023)
+* Schneider Electric - Data Science Finance L6 Apprentice (Sept 2023 - Present)
 
 ### Projects
 * Profit and Cost centre restructure across UK&I zone
